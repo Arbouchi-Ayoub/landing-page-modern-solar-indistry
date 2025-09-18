@@ -1,0 +1,290 @@
+{
+  "navigation": {
+    "home": "Accueil",
+    "about": "À Propos",
+    "services": "Services",
+    "projects": "Projets",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title1": "Exploitez la puissance du soleil",
+    "subtitle1": "Des solutions solaires écologiques pour un avenir durable. Économisez sur vos factures d'énergie et réduisez votre empreinte carbone.",
+    "title2": "Énergie intelligente pour votre maison",
+    "subtitle2": "Réduisez vos coûts d'électricité jusqu'à 80% avec nos systèmes de panneaux solaires à haut rendement.",
+    "title3": "Un mode de vie durable commence ici",
+    "subtitle3": "Rejoignez des milliers de foyers qui profitent déjà d'une énergie propre et renouvelable avec nos solutions solaires.",
+    "requestQuote": "Obtenir un devis gratuit",
+    "watchVideo": "Regarder la vidéo"
+  },
+  "about": {
+    "title": "À Propos de SAFI SOLAR",
+    "description": "SAFI SOLAR est une entreprise Marocaine basée à Safi, experte en solutions d'énergie solaire photovoltaïque et thermique. Nous proposons des solutions sur mesure pour les particuliers et les professionnels.",
+    "experience": "Années d'Expérience",
+    "projects": "Projets Réalisés",
+    "clients": "Clients Satisfaits"
+  },
+  "product": {
+    "title": "Solutions Solaires Haut de Gamme",
+    "subtitle": "Des solutions d'énergie solaire de haute qualité conçues pour une efficacité et une durabilité maximales.",
+    "highEfficiency": {
+      "title": "Haute Efficacité",
+      "description": "Nos panneaux solaires utilisent une technologie photovoltaïque avancée pour maximiser la production d'énergie même dans des conditions de faible luminosité."
+    },
+    "durability": {
+      "title": "Durabilité",
+      "description": "Conçus pour résister aux conditions météorologiques difficiles avec un cadre en aluminium robuste et une protection en verre trempé."
+    },
+    "easyInstallation": {
+      "title": "Installation Facile",
+      "description": "Processus d'installation rapide et simple avec nos techniciens certifiés qui s'occupent de tout de A à Z."
+    },
+    "smartMonitoring": {
+      "title": "Surveillance Intelligente",
+      "description": "Surveillez votre production d'énergie en temps réel grâce à notre application mobile conviviale."
+    },
+    "cta": {
+      "title": "Prêt à Passer au Solaire ?",
+      "description": "Rejoignez des centaines de clients satisfaits qui économisent déjà sur leurs factures d'énergie avec SAFI SOLAR.",
+      "button": "Obtenir un Devis Gratuit"
+    },
+    "imageAlt": "Installation de panneaux solaires"
+  },
+  "features": {
+    "title": "Solutions Solaires Haut de Gamme",
+    "subtitle": "Des solutions solaires hautes performances adaptées à vos besoins énergétiques",
+    "tagline": "Pourquoi Nous Choisir",
+    "highEfficiency": {
+      "title": "Panneaux Haute Efficacité",
+      "description": "Nos panneaux solaires premium offrent des rendements de pointe, garantissant une production d'énergie maximale même sur des toits de taille limitée.",
+      "efficiency": "Efficacité",
+      "warranty": "Ans de Garantie"
+    },
+    "smartInverter": {
+      "title": "Onduleurs Intelligents",
+      "description": "Des onduleurs de pointe avec surveillance en temps réel et optimisation pour des performances et des économies d'énergie maximales.",
+      "efficiency": "Efficacité",
+      "warranty": "Ans de Garantie"
+    },
+    "batteryStorage": {
+      "title": "Stockage par Batterie",
+      "description": "Stockez l'énergie solaire excédentaire pour une utilisation pendant les heures de pointe ou les pannes avec nos solutions de batterie fiables.",
+      "lifespan": "Ans de Durée de Vie",
+      "retention": "Rétention de Capacité"
+    },
+    "monitoring": {
+      "title": "Surveillance 24/7",
+      "description": "Suivez les performances de votre système en temps réel avec notre plateforme de surveillance conviviale.",
+      "updates": "Mises à Jour",
+      "alerts": "Alertes Intelligentes"
+    },
+    "warranty": {
+      "title": "Garantie Complète",
+      "description": "Une couverture de garantie de premier ordre pour une tranquillité d'esprit totale sur votre investissement.",
+      "panels": "Ans pour les Panneaux",
+      "inverters": "Ans pour les Onduleurs"
+    },
+    "savings": {
+      "title": "Économies Garanties",
+      "description": "Réduisez considérablement ou éliminez vos factures d'électricité avec nos solutions solaires.",
+      "reduction": "Réduction des Factures",
+      "roi": "ROI en 4-6 Ans"
+    },
+    "cta": {
+      "title": "Prêt à Faire des Économies avec le Solaire ?",
+      "description": "Obtenez un devis gratuit et sans engagement et découvrez combien vous pourriez économiser avec SAFI SOLAR.",
+      "button": "Obtenir une Évaluation Solaire Gratuite"
+    },
+    "viewAll": "Voir toutes les fonctionnalités"
+  },
+  "services": {
+    "title": "Nos Solutions Solaires",
+    "subtitle": "Découvrez nos services sur mesure pour tous vos besoins en énergie propre",
+    "tagline": "Nos Services",
+    "residential": {
+      "title": "Solutions Résidentielles",
+      "description": "Réduisez vos factures d'électricité avec nos installations solaires résidentielles. Économisez jusqu'à 80% sur votre facture énergétique."
+    },
+    "commercial": {
+      "title": "Solutions Commerciales",
+      "description": "Solutions énergétiques économiques pour les entreprises. Réduisez vos coûts opérationnels et valorisez votre engagement écologique."
+    },
+    "industrial": {
+      "title": "Solutions Industrielles",
+      "description": "Systèmes solaires haute puissance pour les besoins industriels. Optimisez votre consommation énergétique et réduisez votre empreinte carbone."
+    },
+    "maintenance": {
+      "title": "Maintenance & Support",
+      "description": "Un service après-vente réactif pour assurer les performances optimales de votre installation solaire."
+    },
+    "monitoring": {
+      "title": "Surveillance à Distance",
+      "description": "Suivez en temps réel la production de votre installation solaire grâce à nos systèmes de monitoring avancés."
+    },
+    "financing": {
+      "title": "Solutions de Financement",
+      "description": "Des solutions de financement adaptées pour rendre l'énergie solaire accessible à tous."
+    },
+    "water_heater": {
+      "title": "Chauffe-Eau Solaires",
+      "description": "Économisez jusqu'à 80% sur votre facture d'eau chaude avec nos chauffe-eau solaires haute performance."
+    }
+  },
+  "cta": {
+    "title": "Prêt à Faire des Économies avec l'Énergie Solaire ?",
+    "description": "Demandez votre devis personnalisé et gratuit dès aujourd'hui !",
+    "button": "Demander un Devis"
+  },
+  "testimonials": {
+    "title": "Ce que disent nos clients",
+    "subtitle": "Découvrez les témoignages de nos clients satisfaits à travers le Maroc",
+    "tagline": "Témoignages clients",
+    "testimonial1": {
+      "name": "Karim El Amrani",
+      "role": "Propriétaire, Casablanca",
+      "content": "SAFI SOLAR a transformé notre foyer avec leur installation solaire. Nos factures d'électricité ont baissé de 80% et le processus d'installation s'est déroulé sans accroc de manière professionnelle."
+    },
+    "testimonial2": {
+      "name": "Leila Benjelloun",
+      "role": "Gérante d'entreprise, Rabat",
+      "content": "L'équipe de SAFI SOLAR a fourni un service excellent du début à la fin. Leur expertise en solutions solaires commerciales nous a permis d'économiser des milliers en coûts énergétiques."
+    },
+    "testimonial3": {
+      "name": "Youssef Alami",
+      "role": "Agriculteur, Marrakech",
+      "content": "Le système de pompage solaire a été révolutionnaire pour notre ferme. Fiable, efficace et le service après-vente est exceptionnel."
+    },
+    "testimonial4": {
+      "name": "Nadia Bennis",
+      "role": "Directrice d'école, Tanger",
+      "content": "Nous avons installé des panneaux SAFI SOLAR dans notre école. Les enfants apprennent les énergies renouvelables de première main, et nous réalisons des économies sur nos coûts opérationnels."
+    },
+    "cta": "Partagez votre expérience"
+  },
+  "savings": {
+    "title": "Calculez Vos Économies",
+    "description": "Découvrez combien vous pourriez économiser avec nos solutions solaires",
+    "current_bill": "Votre facture actuelle (DH/mois)",
+    "calculate": "Calculer",
+    "monthly_savings": "Économies mensuelles estimées",
+    "yearly_savings": "Économies annuelles estimées"
+  },
+  "contact": {
+    "tagline": "Contactez-nous",
+    "title": "Nous Contacter",
+    "subtitle": "Des questions ou prêt à passer au solaire ? Notre équipe est là pour vous aider.",
+    "address": "Safi, Maroc, 46000",
+    "phone": "06 01 81 10 58",
+    "email": "safi.solar2019@gmail.com",
+    "opening_hours": "Lun - Sam: 8h30 - 19h",
+    "form": {
+      "title": "Envoyez-nous un message",
+      "success": "Merci pour votre message ! Nous vous recontacterons bientôt.",
+      "error": "Une erreur s'est produite. Veuillez réessayer plus tard.",
+      "name": "Nom Complet",
+      "email": "Email",
+      "phone": "Téléphone",
+      "message": "Message",
+      "submitting": "Envoi en cours...",
+      "submit": "Envoyer le message",
+      "placeholders": {
+        "name": "Jean Dupont",
+        "phone": "+212 600 000000",
+        "message": "Parlez-nous de votre projet..."
+      },
+      "errors": {
+        "name": {
+          "required": "Le nom est requis"
+        },
+        "email": {
+          "required": "L'email est requis",
+          "invalid": "Veuillez entrer une adresse email valide"
+        },
+        "phone": {
+          "required": "Le numéro de téléphone est requis",
+          "invalid": "Veuillez entrer un numéro de téléphone valide"
+        },
+        "message": {
+          "required": "Le message est requis",
+          "tooShort": "Le message doit contenir au moins 10 caractères"
+        }
+      }
+    },
+    "info": {
+      "title": "Coordonnées",
+      "description": "Des questions ou besoin d'aide ? Notre équipe est là pour répondre à tous vos besoins en énergie solaire.",
+      "address": {
+        "title": "Notre Bureau",
+        "value": "123 Rue du Solaire, Casablanca, Maroc"
+      },
+      "phone": {
+        "title": "Téléphone"
+      },
+      "email": {
+        "title": "Email"
+      },
+      "hours": {
+        "title": "Heures d'ouverture",
+        "weekdays": "Lundi - Vendredi",
+        "weekend": "Samedi",
+        "sunday": "Dimanche",
+        "closed": "Fermé"
+      }
+    },
+    "faq": {
+      "title": "Questions Fréquentes",
+      "q1": {
+        "question": "Combien de temps dure l'installation ?",
+        "answer": "La plupart des installations résidentielles sont terminées en 1 à 3 jours, selon la taille et la complexité du système."
+      },
+      "q2": {
+        "question": "Quelle maintenance est nécessaire ?",
+        "answer": "Les panneaux solaires nécessitent très peu d'entretien. Nous recommandons une inspection annuelle et un nettoyage occasionnel."
+      },
+      "q3": {
+        "question": "Quelle est la durée de garantie ?",
+        "answer": "Nos panneaux solaires sont garantis 25 ans pour la performance et 10 ans pour le produit."
+      },
+      "viewAll": "Voir toutes les questions"
+    }
+  },
+  "gallery": {
+    "tagline": "Nos Réalisations",
+    "title": "Galerie Produits",
+    "subtitle": "Découvrez notre portfolio d'installations solaires et de produits réalisés",
+    "viewMore": "Voir Plus de Projets",
+    "categories": {
+      "all": "Tous les Projets",
+      "residential": "Résidentiel",
+      "commercial": "Commercial",
+      "water_heater": "Chauffe-Eau",
+      "maintenance": "Maintenance",
+      "monitoring": "Surveillance",
+      "components": "Composants"
+    }
+  },
+  "social": {
+    "follow_us": "Suivez-nous sur",
+    "facebook": "Facebook"
+  },
+  "benefits": {
+    "title": "Pourquoi Choisir SAFI SOLAR ?",
+    "items": [
+      {
+        "title": "Économies Garanties",
+        "description": "Jusqu'à 80% d'économies sur vos factures d'électricité"
+      },
+      {
+        "title": "Énergie Propre",
+        "description": "Réduisez votre empreinte carbone"
+      },
+      {
+        "title": "Installation Rapide",
+        "description": "Installation professionnelle par nos experts"
+      },
+      {
+        "title": "Service Après-Vente",
+        "description": "Assistance technique 7j/7"
+      }
+    ]
+  }
+}

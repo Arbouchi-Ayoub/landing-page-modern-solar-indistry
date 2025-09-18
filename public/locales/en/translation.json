@@ -1,0 +1,290 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title1": "Harness the Power of the Sun",
+    "subtitle1": "Eco-friendly solar solutions for a sustainable future. Save on energy bills and reduce your carbon footprint.",
+    "title2": "Smart Energy for Your Home",
+    "subtitle2": "Cut your electricity costs by up to 80% with our high-efficiency solar panel systems.",
+    "title3": "Sustainable Living Starts Here",
+    "subtitle3": "Join thousands of homes already enjoying clean, renewable energy with our solar solutions.",
+    "requestQuote": "Get Your Free Quote",
+    "watchVideo": "Watch Video"
+  },
+  "about": {
+    "title": "About SAFI SOLAR",
+    "description": "SAFI SOLAR is a Moroccan company based in Safi, specializing in photovoltaic and thermal solar energy solutions. We offer customized solutions for both individuals and businesses.",
+    "experience": "Years of Experience",
+    "projects": "Completed Projects",
+    "clients": "Satisfied Clients"
+  },
+  "product": {
+    "title": "Premium Solar Solutions",
+    "subtitle": "High-quality solar energy solutions designed for maximum efficiency and durability.",
+    "highEfficiency": {
+      "title": "High Efficiency",
+      "description": "Our solar panels use advanced photovoltaic technology to maximize energy production even in low-light conditions."
+    },
+    "durability": {
+      "title": "Durability",
+      "description": "Built to withstand harsh weather conditions with a robust aluminum frame and tempered glass protection."
+    },
+    "easyInstallation": {
+      "title": "Easy Installation",
+      "description": "Quick and straightforward installation process with our certified technicians handling everything from A to Z."
+    },
+    "smartMonitoring": {
+      "title": "Smart Monitoring",
+      "description": "Monitor your energy production in real-time through our user-friendly mobile application."
+    },
+    "cta": {
+      "title": "Ready to Go Solar?",
+      "description": "Join hundreds of satisfied customers who are already saving on their energy bills with SAFI SOLAR.",
+      "button": "Get Your Free Quote"
+    },
+    "imageAlt": "Solar panels installation"
+  },
+  "features": {
+    "title": "Premium Solar Solutions",
+    "subtitle": "High-performance solar solutions tailored to your energy needs",
+    "tagline": "Why Choose Us",
+    "highEfficiency": {
+      "title": "High-Efficiency Panels",
+      "description": "Our premium solar panels deliver industry-leading efficiency ratings, ensuring maximum energy production from limited roof space.",
+      "efficiency": "Efficiency",
+      "warranty": "Year Warranty"
+    },
+    "smartInverter": {
+      "title": "Smart Inverters",
+      "description": "Advanced inverters with real-time monitoring and optimization for peak performance and energy savings.",
+      "efficiency": "Efficiency",
+      "warranty": "Year Warranty"
+    },
+    "batteryStorage": {
+      "title": "Battery Storage",
+      "description": "Store excess solar energy for use during peak hours or power outages with our reliable battery solutions.",
+      "lifespan": "Year Lifespan",
+      "retention": "Capacity Retention"
+    },
+    "monitoring": {
+      "title": "24/7 Monitoring",
+      "description": "Track your system's performance in real-time with our user-friendly monitoring platform.",
+      "updates": "Updates",
+      "alerts": "Smart Alerts"
+    },
+    "warranty": {
+      "title": "Comprehensive Warranty",
+      "description": "Industry-leading warranty coverage for complete peace of mind on your investment.",
+      "panels": "Year Panels",
+      "inverters": "Year Inverters"
+    },
+    "savings": {
+      "title": "Guaranteed Savings",
+      "description": "Significantly reduce or eliminate your electricity bills with our solar solutions.",
+      "reduction": "Bill Reduction",
+      "roi": "4-6 Year ROI"
+    },
+    "cta": {
+      "title": "Ready to Save with Solar?",
+      "description": "Get a free, no-obligation quote and see how much you could save with SAFI SOLAR.",
+      "button": "Get Your Free Solar Assessment"
+    },
+    "viewAll": "View all features"
+  },
+  "services": {
+    "title": "Our Solar Solutions",
+    "subtitle": "Discover our customized services for all your clean energy needs",
+    "tagline": "Our Services",
+    "residential": {
+      "title": "Residential Solutions",
+      "description": "Reduce your electricity bills with our residential solar installations. Save up to 80% on your energy bill."
+    },
+    "commercial": {
+      "title": "Commercial Solutions",
+      "description": "Cost-effective energy solutions for businesses. Reduce operational costs and showcase your environmental commitment."
+    },
+    "industrial": {
+      "title": "Industrial Solutions",
+      "description": "High-power solar systems for industrial needs. Optimize your energy consumption and reduce your carbon footprint."
+    },
+    "maintenance": {
+      "title": "Maintenance & Support",
+      "description": "Responsive after-sales service to ensure optimal performance of your solar installation."
+    },
+    "monitoring": {
+      "title": "Remote Monitoring",
+      "description": "Monitor your solar system's production in real-time with our advanced monitoring systems."
+    },
+    "financing": {
+      "title": "Financing Solutions",
+      "description": "Tailored financing options to make solar energy accessible to everyone."
+    },
+    "water_heater": {
+      "title": "Solar Water Heaters",
+      "description": "Save up to 80% on your hot water bill with our high-performance solar water heaters."
+    }
+  },
+  "cta": {
+    "title": "Ready to Save with Solar Energy?",
+    "description": "Request your personalized, free quote today!",
+    "button": "Get a Quote"
+  },
+  "testimonials": {
+    "title": "What Our Clients Say",
+    "subtitle": "Hear from our satisfied customers across Morocco",
+    "tagline": "Client Testimonials",
+    "testimonial1": {
+      "name": "Karim El Amrani",
+      "role": "Homeowner, Casablanca",
+      "content": "SAFI SOLAR transformed our home with their solar installation. Our electricity bills have dropped by 80% and the installation process was smooth and professional."
+    },
+    "testimonial2": {
+      "name": "Leila Benjelloun",
+      "role": "Business Owner, Rabat",
+      "content": "The team at SAFI SOLAR provided excellent service from start to finish. Their expertise in commercial solar solutions saved us thousands in energy costs."
+    },
+    "testimonial3": {
+      "name": "Youssef Alami",
+      "role": "Farmer, Marrakech",
+      "content": "The solar water pumping system has been a game-changer for our farm. Reliable, efficient, and the after-sales support is exceptional."
+    },
+    "testimonial4": {
+      "name": "Nadia Bennis",
+      "role": "School Principal, Tangier",
+      "content": "We installed SAFI SOLAR panels on our school. The children are learning about renewable energy first-hand, and we're saving on operational costs."
+    },
+    "cta": "Share Your Experience"
+  },
+  "savings": {
+    "title": "Calculate Your Savings",
+    "description": "Discover how much you could save with our solar solutions",
+    "current_bill": "Your current bill (DH/month)",
+    "calculate": "Calculate",
+    "monthly_savings": "Estimated Monthly Savings",
+    "yearly_savings": "Estimated Yearly Savings"
+  },
+  "contact": {
+    "tagline": "Get In Touch",
+    "title": "Contact Us",
+    "subtitle": "Have questions or ready to go solar? Our team is here to help.",
+    "address": "Safi, Morocco, 46000",
+    "phone": "+212 601 811 058",
+    "email": "safi.solar2019@gmail.com",
+    "opening_hours": "Mon - Sat: 8:30 AM - 7:00 PM",
+    "form": {
+      "title": "Send Us a Message",
+      "success": "Thank you for your message! We will get back to you soon.",
+      "error": "Something went wrong. Please try again later.",
+      "name": "Full Name",
+      "email": "Email",
+      "phone": "Phone",
+      "message": "Message",
+      "submitting": "Sending...",
+      "submit": "Send Message",
+      "placeholders": {
+        "name": "John Doe",
+        "phone": "+212 600 000000",
+        "message": "Tell us about your project..."
+      },
+      "errors": {
+        "name": {
+          "required": "Name is required"
+        },
+        "email": {
+          "required": "Email is required",
+          "invalid": "Please enter a valid email address"
+        },
+        "phone": {
+          "required": "Phone number is required",
+          "invalid": "Please enter a valid phone number"
+        },
+        "message": {
+          "required": "Message is required",
+          "tooShort": "Message should be at least 10 characters"
+        }
+      }
+    },
+    "info": {
+      "title": "Contact Information",
+      "description": "Have questions or need assistance? Our team is here to help you with all your solar energy needs.",
+      "address": {
+        "title": "Our Office",
+        "value": "123 Solar Street, Casablanca, Morocco"
+      },
+      "phone": {
+        "title": "Phone"
+      },
+      "email": {
+        "title": "Email"
+      },
+      "hours": {
+        "title": "Working Hours",
+        "weekdays": "Monday - Friday",
+        "weekend": "Saturday",
+        "sunday": "Sunday",
+        "closed": "Closed"
+      }
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "q1": {
+        "question": "How long does installation take?",
+        "answer": "Most residential installations are completed within 1-3 days, depending on the system size and complexity."
+      },
+      "q2": {
+        "question": "What maintenance is required?",
+        "answer": "Solar panels require minimal maintenance. We recommend an annual inspection and occasional cleaning."
+      },
+      "q3": {
+        "question": "What is the warranty period?",
+        "answer": "Our solar panels come with a 25-year performance warranty and a 10-year product warranty."
+      },
+      "viewAll": "View all FAQs"
+    }
+  },
+  "gallery": {
+    "tagline": "Our Work",
+    "title": "Product Gallery",
+    "subtitle": "Explore our portfolio of completed solar installations and products",
+    "viewMore": "View More Projects",
+    "categories": {
+      "all": "All Projects",
+      "residential": "Residential",
+      "commercial": "Commercial",
+      "water_heater": "Water Heaters",
+      "maintenance": "Maintenance",
+      "monitoring": "Monitoring",
+      "components": "Components"
+    }
+  },
+  "social": {
+    "follow_us": "Follow Us On",
+    "facebook": "Facebook"
+  },
+  "benefits": {
+    "title": "Why Choose SAFI SOLAR?",
+    "items": [
+      {
+        "title": "Guaranteed Savings",
+        "description": "Up to 80% savings on your electricity bills"
+      },
+      {
+        "title": "Clean Energy",
+        "description": "Reduce your carbon footprint"
+      },
+      {
+        "title": "Quick Installation",
+        "description": "Professional installation by our experts"
+      },
+      {
+        "title": "After-Sales Service",
+        "description": "Technical support 7 days a week"
+      }
+    ]
+  }
+}
